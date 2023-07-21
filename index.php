@@ -56,7 +56,7 @@
                         <p class="banner-subtitle"><span class="banner-highlight">Jazz Eventual somos tu grupo de Jazz para Eventos! Y también Jazz para bodas!</b></span></p>
                         <div class="button-group">
                             <a class="btn btn-border btn-lg btn-white" href="#contact">Contactar</a>
-                            <a class="btn btn-simple btn-lg btn-white" href="/videos/"><i class="fa-solid fa-play"></i> Ver Vídeos</a>
+                            <!-- <a class="btn btn-simple btn-lg btn-white" href="/videos/"><i class="fa-solid fa-play"></i> Ver Vídeos</a> -->
                         </div>
                     </div>
                 </div>

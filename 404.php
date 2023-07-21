@@ -8,11 +8,11 @@
     <!-- COMMON-HEAD END -->
 
     <!-- CANONICAL -->
-    <link rel="canonical" href="https://www.saxonara.com/404.html">
+    <link rel="canonical" href="https://www.jazzeventual.com/404.html">
 
     <!-- SITE INFORMATION -->
-    <title>404 - Page not found | SAXONARA</title>
-    <meta name="description" content="Página no encontrada, vuelve a la página inicial de SAXONARA para ver los vídeos y conocer más acerca del saxofonista profesional.">
+    <title>404 - Page not found | JAZZ EVENTUAL</title>
+    <meta name="description" content="Página no encontrada, vuelve a la página inicial de JAZZ EVENTUAL para ver los vídeos y conocer más acerca del grupo de jazz.">
 
     <!-- COMMON-OPENGRAPH -->
     <?php include "common-php/opengraph/es.html"; ?>

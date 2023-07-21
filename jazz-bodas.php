@@ -7,10 +7,10 @@
     <!-- COMMON-HEAD END -->
 
     <!-- CANONICAL -->
-    <link rel="canonical" href="https://www.saxonara.com/jazz-bodas.php">
+    <link rel="canonical" href="https://www.jazzeventual.com/jazz-bodas.php"> 
 
     <!-- COMMON-LOCALIZATION -->
-    <?php include "common-php/localization/sax-weddings.html"; ?>
+    <?php include "common-php/localization/jazz-weddings.html"; ?>
     <!-- COMMON-LOCALIZATION END -->
 
     <!-- SITE INFORMATION -->
