@@ -16,7 +16,7 @@
     <!-- SITE INFORMATION -->
     <title>Jazz para bodas | Grupo de Jazz para bodas y eventos</title>
     <meta name="description" content="Grupo de Jazz para bodas, la mejor opción para la música del Aperitivo de Boda con Jazz, también disponible para Música en el Banquete y en la Ceremonia. Consulta disponibilidad y precio.">
-    <meta name="keywords" content="jazz, bodas, aperitivo, banquete, cena, cóctel, saxofonista, ceremonia">
+    <meta name="keywords" content="jazz, bodas, aperitivo, banquete, cóctel, saxofonista, ceremonia">
 
     <!-- COMMON-OPENGRAPH -->
     <?php include "common-php/opengraph/es.html"; ?>
@@ -41,7 +41,7 @@
         <div class="container text-center">
             <h1 class="page-title">Jazz para Bodas</h1>
             <ol class="breadcrumb">
-                <li>El grupo de jazz elegante para tu boda. Disponibles en Aperitivo, Ceremonia y Cena.</li>
+                <li>El grupo de jazz elegante para tu boda. Disponibles en Aperitivo, Ceremonia y Banquete.</li>
             </ol>
         </div>
     </div>
@@ -63,9 +63,9 @@
                     <div class="col-md-8 col-md-offset-2 col-xs-12">
                         <div class="text-center">
                             <h3 class="section-title" id="ceremony">Música para la Ceremonia de Boda</h3>
-                            <p>Nos gusta preparar la música de la ceremonia según el gusto y las peticiones de la pareja. Tenemos un ámplio repertorio de donde podéis tomar ideas.</p>
+                            <p>Nos gusta preparar la música de la ceremonia según el gusto y las peticiones de la pareja. Tenemos un <strong>ámplio repertorio</strong> de donde podéis tomar ideas.</p>
 
-                            <p>Nuestra experiencia como músicos profesionales nos permite adaptarnos a las peticiones de los clientes, no dudéis en escoger aquellas canciones que más os gusten para la entrada a la ceremonia (camino al altar), los anillos, la salida de la ceremonia o la llegada de los invitados.</p>
+                            <p>Nuestra experiencia como músicos profesionales nos permite adaptarnos a las peticiones de los clientes, no dudéis en escoger aquellas canciones que más os gusten para la <strong>entrada a la ceremonia</strong> (camino al altar), los anillos, la salida de la ceremonia o la llegada de los invitados.</p>
 
                             <p>Escucha nuestras versiones con algunos de nuestros vídeos.</p>
                         </div>
@@ -87,11 +87,11 @@
                     <div class="col-md-8 col-md-offset-2 col-xs-12">
                         <div class="text-center">
                             <h3 class="section-title" id="cocktail">Jazz en el Aperitivo de Boda</h3>
-                            <p>El Aperitivo de Boda es nuestra especialidad, la mejor opción para un grupo de jazz que ambientará el espacio, con una presentacion elegante y un repertorio fresco.</p>
+                            <p>El Aperitivo de Boda es nuestra especialidad, la mejor opción para un <strong>grupo de jazz</strong> que ambientará el espacio, con una presentacion <strong>elegante</strong> y un repertorio fresco.</p>
 
                             <p>Nuestra formación se adapta a vuestro gusto, estando disponibles como <strorng>músicos solistas</strorng>, a <strong>duo para bodas</strong> o <strong>trío de jazz</strong>.</p>
 
-                            <p>Si tenéis alguna petición especial, decídnoslo, haremos todo lo posible para que suene en tu aperitivo de boda</p>
+                            <p>Si tenéis alguna petición especial, decídnoslo, haremos todo lo posible para que suene en tu aperitivo de boda.</p>
                         </div>
                     </div>
                 </div>
@@ -129,9 +129,9 @@
                     <div class="col-md-8 col-md-offset-2 col-xs-12">
                         <div class="text-center">
                             <h3 class="section-title" id="dinner">Música para el banquete</h3>
-                            <p>Cada vez son más las parejas que buscan ambientar el banquete de su boda con un estilo de música elegante y en directo. Nuestra propuesta es la interpretación instrumental de esos grandes clásicos adaptados al jazz.</p>
+                            <p>Cada vez son más las parejas que buscan <strong>música para ambientar el banquete</strong> de su boda con un estilo elegante y en directo. Nuestra propuesta es la interpretación instrumental de esos grandes clásicos adaptados al jazz.</p>
 
-                            <p>Jazz Eventual se adapta a vuestro banquete de boda, pudiéndo ofrecer desde formatos solistas como sería guitarrista de jazz o saxofonista, hasta duos y tríos de música instrumental para el mejor ambiente en tu banquete de boda.</p>
+                            <p>Jazz Eventual se adapta a vuestro banquete de boda, pudiéndo ofrecer desde <strong>músico solista</strong> como sería guitarrista de jazz o saxofonista, hasta duos y tríos de música instrumental para el mejor ambiente en tu <strong>banquete de boda</strong>.</p>
 
                             <p>Disponemos de todo lo necesario para sonorizar nuestra actuación, con altavoces, microfonía y más, por lo que somos autónomos en este aspecto y no os tendríais que preocupar de nada más. La música de tu boda en buenas manos.</p>
                         </div>

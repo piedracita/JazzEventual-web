@@ -86,7 +86,7 @@
                     <div class="col-md-10 col-md-offset-1 col-xs-12">
                         <div class="section-header text-center style-3">
                             <h3 class="section-title">JAZZ EVENTUAL<br>El mejor música jazz para tu evento o boda</h3>
-                            <p class="section-subtext">Bienvenidos a nuestra web, somos Jazz Eventual, el grupo de jazz que se adapta a tu evento o boda. Le ponemos música al cóctel con un repertorio ameno que sea el mejor acompañamiento para tu evento.</p>
+                            <p class="section-subtext">Bienvenidos a nuestra web, somos Jazz Eventual, el <strong>grupo de jazz</strong> que se adapta a tu evento o boda. Le ponemos música al cóctel con un repertorio ameno que sea el mejor acompañamiento para tu evento.</p>
 
                             <p class="section-subtext">Nuestra formación se adapta a vuestras necesidades, podemos trabajar como solistas, con <strong>Saxofón Solista</strong> o <strong>Guitarra Solista</strong>, en formación <strong>Duo para Bodas</strong> y también como <strong>Trío de Jazz</strong>.</p>
 
@@ -176,11 +176,11 @@
                         <div class="section-header">
                             <h2 class="section-title">Jazz para Eventos</h2>
                             <h5>Eventos Coporativos</h5>
-                            <p>Con Jazz Eventual vas a acertar si lo que buscar es música para un evento corporativo, nuestras versiones de jazz van a ser el mejor acompañamiento para que el equipo pueda relajarse y comunicarse, a la vez que disfrutan de la mejor música en un ambiente elegante</p>
+                            <p>Con Jazz Eventual vas a acertar si lo que buscar es <strong>música para un evento corporativo</strong>, nuestras versiones de jazz van a ser el mejor acompañamiento para que el equipo pueda relajarse y comunicarse, a la vez que disfrutan de la mejor música en un <strong>ambiente elegante</strong>.</p>
                             <h5>Cenas de empresa</h5>
-                            <p>Creamos el hilo musical perfecto para acompañar una cena de empresa, la mejor opción para un ambiente elegante.</p>
+                            <p>Creamos el hilo musical perfecto para acompañar una <strong>cena de empresa</strong>, la mejor opción para un ambiente elegante.</p>
                             <h5>Hoteles y Terrazas</h5>
-                            <p>Estamos abiertos a contrataciones en Terrazas y Restaurantes que quieran ofrecer a sus asistentes un concierto en ambiente relajado, con música de calidad y smooth jazz.</p>
+                            <p>Estamos abiertos a contrataciones en Terrazas y <strong>Restaurantes</strong> que quieran ofrecer a sus asistentes un <strong>concierto</strong> en ambiente relajado, con música de calidad y smooth jazz.</p>
                         </div>
                     </div>
                 </div>
@@ -211,14 +211,14 @@
                                     <i class="fa-solid fa-martini-glass-citrus"></i>
                                 </div>
                                 <h4 class="doing-title">Amenización o Protagonismo</h4>
-                                <p class="doing-text">Adaptamos nuestro show y música al evento, pudiendo interpretar piezas que suenan en formato amenización, o bien dando mucho más protagonismo y presencia al grupo y su música.</p>
+                                <p class="doing-text">Adaptamos nuestro show y música al evento, pudiendo interpretar piezas que suenan en formato <strong>amenización</strong>, o bien dando mucho más protagonismo y presencia al grupo y su música.</p>
                             </div>
                             <div class="doing-item">
                                 <div class="doing-icon">
                                     <i class="fa-solid fa-microphone"></i>
                                 </div>
                                 <h4 class="doing-title">Jazz Eventual se adapta</h4>
-                                <p class="doing-text">Encuentra la formación perfecta para tu evento, la mejor música que se adaptará a tus necesidades. ¿Buscas un Duo para Bodas o tal vez prefiere un Trío de Jazz? También puedes considerar contar con solistas como sería Guitarrista, Saxofonista o Cantante de jazz.</p>
+                                <p class="doing-text">Encuentra la formación perfecta para tu evento, la mejor música que se adaptará a tus necesidades. ¿Buscas un <strong>Duo para Bodas</strong> o tal vez prefiere un <strong>Trío de Jazz</strong>? También puedes considerar contar con <strong>solistas</strong> como sería <strong>Guitarrista</strong>, <strong>Saxofonista</strong> o <strong>Cantante</strong> de jazz.</p>
                             </div>
                         </div>
                     </div>

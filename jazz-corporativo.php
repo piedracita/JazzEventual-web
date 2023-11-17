@@ -63,9 +63,9 @@
                     <div class="col-md-8 col-md-offset-2 col-xs-12">
                         <div class="text-center">
                             <h3 class="section-title" id="ceremony">Evento Cocktail</h3>
-                            <p>Crea el evento de empresa con música en directo, somo un grupo de jazz que nos adaptamos a la necesidad del cliente y del evento, siendo la opción cocktail nuestra favorita.</p>
+                            <p>Crea el <strong>evento de empresa con música en directo</strong>, somo un <strong>grupo de jazz</strong> que nos adaptamos a la necesidad del cliente y del evento, siendo la opción cocktail nuestra favorita.</p>
 
-                            <p>Podemos crear desde un ambiente más discrteo con músico solista (a la guitarra o saxofón) hasta duos y tríos de jazz que serán la opción perfecta.</p>
+                            <p>Podemos crear desde un ambiente más discrteo con <strong>músico solista</strong> (a la guitarra o saxofón) hasta <strong>duos</strong> y <strong>tríos de jazz</strong> que serán la opción perfecta.</p>
 
                             <p>Escucha nuestras versiones con algunos de nuestros vídeos.</p>
                         </div>
@@ -87,9 +87,9 @@
                     <div class="col-md-8 col-md-offset-2 col-xs-12">
                         <div class="text-center">
                             <h3 class="section-title" id="cocktail">Grupo de Jazz para Amenización</h3>
-                            <p>SI buscas llenar el ambiente con la mejor música en directo, contáctanos para asegurarte nuestra disponibilidad y precio.</p>
+                            <p>SI buscas llenar el ambiente con <strong>la mejor música en directo</strong>, contáctanos para asegurarte nuestra disponibilidad y precio.</p>
 
-                            <p>En una amenización con música en directo podemos adaptar la formación y el repertorio, en función del gusto del cliente.</p>
+                            <p>En una <strong>amenización</strong> con música en directo podemos adaptar la formación y el repertorio, en función del gusto del cliente.</p>
                         </div>
                     </div>
                 </div>
@@ -127,11 +127,11 @@
                     <div class="col-md-8 col-md-offset-2 col-xs-12">
                         <div class="text-center">
                             <h3 class="section-title" id="dinner">Música para cena de empresa</h3>
-                            <p>Una cena de empresa con música en directo es un acierto seguro para realzar un evento de empresa. Consúltanos para conocer disponibilidad y presupuesto.</p>
+                            <p>Una <strong>cena de empresa con música en directo</strong> es un acierto seguro para realzar un evento de empresa. Consúltanos para conocer disponibilidad y presupuesto.</p>
 
-                            <p>Jazz Eventual se adapta a vuestra cena y evento corporativo, pudiéndo ofrecer desde formatos solistas como sería guitarrista de jazz o saxofonista, hasta duos y tríos de música instrumental y jazz.</p>
+                            <p>Jazz Eventual se adapta a vuestra cena y evento corporativo, pudiéndo ofrecer desde formatos <strong>solistas</strong> como sería <strong>guitarrista de jazz</strong> o <strong>saxofonista</strong>, hasta duos y tríos de música instrumental y jazz.</p>
 
-                            <p>Disponemos de todo lo necesario para sonorizar nuestra actuación, con altavoces, microfonía y más, por lo que somos autónomos en este aspecto y no os tendríais que preocupar de nada más. La música de tu boda en buenas manos.</p>
+                            <p>Disponemos de todo lo necesario para sonorizar nuestra actuación, con altavoces, microfonía y más, por lo que somos autónomos en este aspecto y no os tendríais que preocupar de nada más.</p>
                         </div>
                     </div>
                 </div>
