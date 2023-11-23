@@ -7,7 +7,7 @@
     <!-- COMMON-HEAD END -->
 
         <!-- CANONICAL -->
-    <link rel="canonical" href="https://www.saxonara.com/blog/">
+    <link rel="canonical" href="https://www.jazzeventual.com/blog/">
 
     <title>Blog | SAXONARA</title>
     <meta name="description" content="Listado de servicios especiales de SAXONARA">

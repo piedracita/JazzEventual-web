@@ -7,7 +7,7 @@
     <!-- COMMON-HEAD END -->
 
     <!-- CANONICAL -->
-    <link rel="canonical" href="https://www.saxonara.com/videos/baila-conmigo-saxonara.php">
+    <link rel="canonical" href="https://www.jazzeventual.com/videos/baila-conmigo-saxonara.php">
 
     <title>Baila Conmigo - Dayvi | SAXONARA</title>
     <meta name="description" content="Versión instrumental en saxofón de Baila Conmigo de Dayvi por SAXONARA. Fiesta en Barcelona con DJ y saxofón con luces LED..">

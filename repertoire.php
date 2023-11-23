@@ -7,7 +7,7 @@
     <!-- COMMON-HEAD END -->
 
     <!-- CANONICAL -->
-    <link rel="canonical" href="https://www.saxonara.com/repertoire.php">
+    <link rel="canonical" href="https://www.jazzeventual.com/repertoire.php">
 
     <!-- SITE INFORMATION -->
     <title>Repertorio de SAXONARA | Saxofonista para bodas y eventos</title>

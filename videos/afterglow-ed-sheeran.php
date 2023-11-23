@@ -7,7 +7,7 @@
     <!-- COMMON-HEAD END -->
 
     <!-- CANONICAL -->
-    <link rel="canonical" href="https://www.saxonara.com/videos/afterglow-ed-sheeran.php">
+    <link rel="canonical" href="https://www.jazzeventual.com/videos/afterglow-ed-sheeran.php">
 
     <title>Afterglow - Ed Sheeran | SAXONARA</title>
     <meta name="description" content="Versión instrumental en saxofón de Afterglow de Ed Sheeran por SAXONARA. Grabado en Barcelona.">

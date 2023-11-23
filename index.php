@@ -227,9 +227,9 @@
         </div>
         <!-- WHAT WE DO END -->
 
-        <!-- REVIEWS -->
-        <?php include "common-php/reviews/es.html"; ?>
-        <!-- REVIEWS END -->
+        <!-- COMMON WEDDINGS -->
+        <?php include "common-php/events/es.html"; ?>
+        <!-- COMMON WEDDINGS END -->
         
     </div>
 

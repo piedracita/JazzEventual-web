@@ -7,7 +7,7 @@
     <!-- COMMON-HEAD END -->
 
     <!-- CANONICAL -->
-    <link rel="canonical" href="https://www.saxonara.com/en/saxophonist-mallorca.php">
+    <link rel="canonical" href="https://www.jazzeventual.com/en/saxophonist-mallorca.php">
 
     <!-- COMMON-LOCALIZATION -->
     <!-- PENDENT -->

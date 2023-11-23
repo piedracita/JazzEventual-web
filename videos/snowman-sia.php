@@ -7,7 +7,7 @@
     <!-- COMMON-HEAD END -->
 
     <!-- CANONICAL -->
-    <link rel="canonical" href="https://www.saxonara.com/videos/snowman-sia.php">
+    <link rel="canonical" href="https://www.jazzeventual.com/videos/snowman-sia.php">
 
     <title>Snowman - Sia | SAXONARA</title>
     <meta name="description" content="Versión instrumental en saxofón de Snowman de Sia por SAXONARA. Grabado en Estany d'Ivars i Vilassana, Lleida.">
